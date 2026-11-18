@@ -1,0 +1,10 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 依赖与构建产物（本项目用不到，留着防止以后误提交）
+node_modules/
+dist/
